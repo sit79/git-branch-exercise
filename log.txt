@@ -1,1 +1,2 @@
-This file will serve as a manual log file.
+This file will serve as a manual log file. It will not record changes automatically.
+Please be mindful of the above stated facts.
