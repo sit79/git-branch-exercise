@@ -2,4 +2,4 @@ This a read-me file. Please follow the given instructions carefully. Don't forge
 to drink water and take breaks. In this folder, you'll find an address file. Please 
 refer to the content of that file when you're asked to give an address.
 
-Otherwise, please email me.
+Otherwise, please email me: stefan.tolksdorf@gmail.com
