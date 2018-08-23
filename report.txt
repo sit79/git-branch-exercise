@@ -1,2 +1,2 @@
 This file will be used to create reports on future progress. Please use this file to express more than bare-bone facts.
-Please do not change this file.
+Please do not change this file unless you are the superuser. Thank you!
